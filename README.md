@@ -2,7 +2,7 @@
 A utilization of Jupyter Notebook to scrap match data for soccer leagues from fbref.com
 
 ## Installation
-This [roject utilizes miniconda and uses jupyter labs as its interface
+This project utilizes miniconda and uses jupyter labs as its interface
 1. **Installing MiniConda**
    - Visit the [Anaconda Download Page](https://www.anaconda.com/download?utm_source=anacondadocs&utm_medium=documentation&utm_campaign=download&utm_content=installwindows)
    - Provide Email
